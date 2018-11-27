@@ -12,6 +12,7 @@ namespace GetTest1
         {
             // I added this comment from GitHub
             // I edited this comment from GitHub
+            // Comment added in VS
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
